@@ -99,7 +99,7 @@ const WeeklyForecast = ({ data, time }) => {
             </Grid>
           );
         })}
-        {data.list.length === 5 && (
+        {data.list.length === 4 && (
           <Grid
             item
             xs={12}
