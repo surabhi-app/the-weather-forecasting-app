@@ -1,2 +1,4 @@
 # the-weather-forecasting-app
 This weather forecasting application offers a modern, intuitive interface that allows users to effortlessly search for and view weather conditions in various cities. It provides comprehensive real-time data, including current weather, air quality, and a detailed weekly forecast with temperature, wind speed, cloud cover and humidity levels. The application features a responsive design, enabling seamless navigation between different time intervals, allowing users to track weather changes throughout the day. Additionally, it enhances the user experience with intelligent search suggestions as users begin typing city names, delivering quick and accurate results. Ideal for those who require reliable and detailed weather updates while on the move.
+
+URL-> https://the-weather-forecasting-app.vercel.app/
